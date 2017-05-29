@@ -9,7 +9,7 @@ var images = [
 var areas = [];
 
 // Calculate the area of image
-function calculate(image){
+var calculate = (image) => {
     areas.push(image.height * image.width);
 }
 
