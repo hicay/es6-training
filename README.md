@@ -9,11 +9,11 @@ ES6 training
     *Calculate areas of images*
 
 ### The 'map' Helper
-1. map/doubledNumbers.js
+1. map/doubledNumbers.js  
     *Double Numbers*
-2. map/cars.js
+2. map/cars.js  
     *Car prices*
-3. map/trip.js
+3. map/trip.js  
     *Find speeds*
-2. map/pluck.js
+2. map/pluck.js  
     *pluck array and property*
