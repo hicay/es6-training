@@ -1,6 +1,5 @@
-# es6-training
-ES6 training
-# Table of Contents
+# ES6 training
+## Table of Contents
 1. [The 'forEach' Helper](#forEach)
 2. [The 'map' Helper](#map)
 3. [The 'filter' Helper](#filter)
